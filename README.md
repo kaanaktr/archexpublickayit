@@ -1,16 +1,17 @@
-# v12 boş altyapı
+👋 Hello, this bot is **Registration & Public** Infrastructure of Archex Team. this bot ** all rights reserved to us ** and we will apply any action that needs to be stolen.
 
-## ArchéxMelih oluşturdu.
-## Bu projeyi Glitch'te çalıştırmanızı tavsiye ederim, eğer diyorsanız ben normal çalıştıracağım, ayarlar.json oluşturun token ve prefix olarak yerler açın gerisini siz biliyorsunuzdur. Eğer yardıma ihtiyacınız olur ise Discord'um: **Mélih#0001**
+👋  Merhaba bu bot Archex Ekibinin **Kayıt & Public** altyapısıdır. bu botun **tüm hakları bize aittir** ve çalınması durumunda gerekli işlemler uygulanacaktır.
 
-## ayarlar.json örneği:
+🔧 Archex Team <3
 
-`{ 
-    "token": "",
-    "prefix": ""
-    }`
-    
-## gerisi:
+** 📣 [Click Websites](http://www.archexlist.tk)**
+** 📣 [Discord Server](https://discord.gg/qDsQzjb5gN)**
 
-  * token için server.js içine gir en aşağı in process.env.token yazan yerini `require("./ayarlar.json").token` olarak değiştirin.
-  * prefix için events klasöründen message.js klasörüne girip **let prefix = process.env.prefix** yazan yeri **let prefix = require("../ayarlar.json").prefix** olarak değiştirin.
+💥 Ghost & Archéx Development!
+
+⚒️ [**Ghost Development**](https://discord.gg/KMJCshWX4D)
+
+**🔧 Made by** : [ArchexMelih](https://youtube.com/c/arcehexmelih) ,
+         [ArchexKaan](https://www.youtube.com/channel/UC9HFT7vVnIgf_w9kr41OIuA)  
+             
+ **💡 SSS** : https://discord.gg/qDsQzjb5gN   
