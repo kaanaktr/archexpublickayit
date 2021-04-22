@@ -4,8 +4,8 @@
 
 🔧 Archex Team <3
 
-** 📣 [Click Websites](http://www.archexlist.tk)**
-** 📣 [Discord Server](https://discord.gg/qDsQzjb5gN)**
+**📣 [Click Websites](http://www.archexlist.tk)**
+**📣 [Discord Server](https://discord.gg/qDsQzjb5gN)**
 
 💥 Ghost & Archéx Development!
 
